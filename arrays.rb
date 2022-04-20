@@ -31,3 +31,6 @@ family_payment_histories [0]
 
 # Will return the element in the 1 index position, which is Kora
 family_members [1]
+
+# Will check if the array contains any elements. Returns true or false
+family_ages.empty?
