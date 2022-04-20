@@ -22,3 +22,12 @@ family_payment_histories.shift
 
 # Method will add data to front of the array
 family_members.unshift ("Dad")
+
+# Will return the element in the second index position (in this case 9)
+family_ages [2]
+
+# Will return the element in the 0 index position, which is true
+family_payment_histories [0]
+
+# Will return the element in the 1 index position, which is Kora
+family_members [1]
